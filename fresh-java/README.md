@@ -220,7 +220,7 @@ if (nextLine.charAt(1) != 'i') {
 if (nextLine.charAt(0) != 'p') {
 ```
 
-2. `cut -d "'" -f2`: remove everythin outside of `'`
+2. `cut -d "'" -f2`: remove everything outside of `'`
 
 ```plaintext
 }
